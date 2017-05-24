@@ -1,0 +1,16 @@
+{
+  "name": "easylogin",
+  "version": "1.0.0",
+  "description": "Easy login system for google functions and datastore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tomas calleja",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/datastore": "^1.0.2",
+    "jwt-simple": "^0.5.1",
+    "password-hash": "^1.2.2"
+  }
+}
